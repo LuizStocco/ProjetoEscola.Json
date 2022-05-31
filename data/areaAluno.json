@@ -1,0 +1,29 @@
+{
+    "nome": "Joao",
+    "Provas": [
+        {
+            "Disciplina": "Matematica",
+            "data": "2063-01-13T23:38:18.280Z"
+        },
+        {
+            "Disciplina": "Historia",
+            "data": "2063-01-13T23:38:18.280Z"
+        },
+        {
+            "Disciplina": "Matematica",
+            "data": "2063-01-13T23:38:18.280Z"
+        }
+    ],
+    "Aulas": [
+        {
+            "Disciplina": "Ingles",
+            "Professor": "Antonio",
+            "Horario": "10:00"
+        }
+    ],
+    "AtividadesExtra":[{
+        "Nome":"Balé",
+        "Horario":"08:00",
+        "Sala":"5"
+    }]
+}
