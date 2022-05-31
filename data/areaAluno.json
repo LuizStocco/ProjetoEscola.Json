@@ -2,15 +2,15 @@
     "nome": "Joao",
     "Provas": [
         {
-            "Disciplina": "Matematica",
+            "disciplina": "Matematica",
             "data": "2063-01-13T23:38:18.280Z"
         },
         {
-            "Disciplina": "Historia",
+            "disciplina": "Historia",
             "data": "2063-01-13T23:38:18.280Z"
         },
         {
-            "Disciplina": "Matematica",
+            "disciplina": "Matematica",
             "data": "2063-01-13T23:38:18.280Z"
         }
     ],
