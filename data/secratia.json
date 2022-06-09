@@ -1,0 +1,45 @@
+{
+    "VerAluno": "AlunosManhã",
+    "alunosTurma": [
+        {
+            "nome": "Joao Guilherme",
+            "turma": "1",
+            "nome": "250.00"
+        }
+    ],
+    
+    "DisciplinaAluno": [
+        {
+            "Nome": "Matematica",
+            "Horario": "08:00",
+            "Sala": "5"
+        },
+        {
+            "Nome": "Geografia",
+            "Horario": "09:00",
+            "Sala": "5"
+        },
+        {
+            "Nome": "Filosofia",
+            "Horario": "10:00",
+            "Sala": "5"
+        }
+    ],
+    "Nota": [
+        {
+            "Materia": "Matematica",
+            "Notas": "6",
+            "Faltas": "0"
+        },
+        {
+            "Materia": "Geografia",
+            "Notas": "8",
+            "Faltas": "0"
+        },
+        {
+            "Materia": "Filosofia",
+            "Notas": "9",
+            "Faltas": "0"
+        }
+    ]
+}

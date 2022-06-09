@@ -1,0 +1,67 @@
+{
+    "Aluno": "Joao Guilherme",
+    "Mensalidade": [
+        {
+            "Valor": "250.00",
+            "vencimento": "27-07-2023"
+        }
+    ],
+    "AgendaAluno": [
+        {
+            "Disciplina": "Ingles",
+            "Professor": "Antonio",
+            "Horario": "10:00"
+        }
+    ],
+    "AtividadesExtra": [
+        {
+            "Nome": "Mecanica",
+            "Horario": "08:00",
+            "Sala": "5"
+        },
+        {
+            "Nome": "Teatro",
+            "Horario": "09:00",
+            "Sala": "6"
+        },
+        {
+            "Nome": "Artesanato",
+            "Horario": "10:00",
+            "Sala": "7"
+        }
+    ],
+    "DisciplinaAluno": [
+        {
+            "Nome": "Matematica",
+            "Horario": "08:00",
+            "Sala": "5"
+        },
+        {
+            "Nome": "Geografia",
+            "Horario": "09:00",
+            "Sala": "5"
+        },
+        {
+            "Nome": "Filosofia",
+            "Horario": "10:00",
+            "Sala": "5"
+        }
+    ],
+    "Nota": [
+        {
+            "Materia": "Matematica",
+            "Notas": "6",
+            "Faltas": "0"
+        },
+        {
+            "Materia": "Geografia",
+            "Notas": "8",
+            "Faltas": "0"
+        },
+        {
+            "Materia": "Filosofia",
+            "Notas": "9",
+            "Faltas": "0"
+        }
+    ]
+}

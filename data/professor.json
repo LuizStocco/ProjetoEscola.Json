@@ -1,0 +1,22 @@
+{
+    "Agenda": "Professor",
+    "Disciplinas": [
+        {
+            "Matematica": "",
+            "Notas": "",
+            "Faltas": ""
+        },
+        {
+            "Geografia": "",
+            "Notas": "",
+            "Faltas": ""
+        },
+        {
+            "Filosofia": "",
+            "Notas": "",
+            "Faltas": ""
+        }
+    ]
+  
+    
+}
