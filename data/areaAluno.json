@@ -1,17 +1,30 @@
 {
-    "nome": "Joao",
+    "nome": "Joao Guilherme",
     "Provas": [
         {
             "disciplina": "Matematica",
-            "data": "2063-01-13T23:38:18.280Z"
+            "data": "27-07-2023",
+            "horario":"08:00"
         },
         {
             "disciplina": "Historia",
-            "data": "2063-01-13T23:38:18.280Z"
+            "data": "27-07-2023",
+            "horario":"09:00"
         },
         {
-            "disciplina": "Matematica",
-            "data": "2063-01-13T23:38:18.280Z"
+            "disciplina": "Quimica",
+            "data": "27-07-2023",
+            "horario":"10:00"
+        }, 
+        {
+            "disciplina": "Portugues",
+            "data": "27-07-2023",
+            "horario":"11:00"
+        },
+         {
+            "disciplina": "Geografia",
+            "data": "27-07-2023",
+            "horario":"11:45"
         }
     ],
     "Aulas": [
@@ -25,5 +38,18 @@
         "Nome":"Balé",
         "Horario":"08:00",
         "Sala":"5"
-    }]
+    },
+    {
+        "Nome":"Teatro",
+        "Horario":"09:00",
+        "Sala":"6"
+    },
+    {
+        "Nome":"Artesanato",
+        "Horario":"10:00",
+        "Sala":"7"
+    }
+
+
+    ]
 }
