@@ -10,26 +10,36 @@
         {
             "disciplina": "Matematica",
             "data": "27-07-2023",
+            "Frequencia": "18/20",
+            "Notas": "7/10",
             "horario":"08:00"
         },
         {
             "disciplina": "Historia",
             "data": "27-07-2023",
+            "Frequencia": "18/20",
+            "Notas": "7/10",
             "horario":"09:00"
         },
         {
             "disciplina": "Quimica",
             "data": "27-07-2023",
+             "Frequencia": "18/20",
+             "Notas": "7/10",
             "horario":"10:00"
         }, 
         {
             "disciplina": "Portugues",
             "data": "27-07-2023",
+            "Frequencia": "18/20",
+            "Notas": "7/10",
             "horario":"11:00"
         },
          {
             "disciplina": "Geografia",
             "data": "27-07-2023",
+            "Frequencia": "18/20",
+            "Notas": "7/10",
             "horario":"11:45"
         }
     ],
