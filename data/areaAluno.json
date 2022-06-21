@@ -1,5 +1,11 @@
 {
-    "nome": "Joao Guilherme",
+        "Nome": "Wilbur Gaylord",
+        "Genero": "Cisgender Female",
+        "Idade": 98414,
+        "Endereco": "94462 Rupert Spring",
+        "id": "1",
+        "Frequencia": "18/20",
+        "Notas": "7/10",
     "Provas": [
         {
             "disciplina": "Matematica",
